@@ -7,6 +7,6 @@ function addValues() {
         let sum = numb1 + numb2;
         document.getElementById('result').innerText = "Result" + sum;
     } else {
-        document.getElementById("result").innerText = "Please enter real numbers"
+        document.getElementById("result").innerText = "Please enter real numbers";
     }
 }
